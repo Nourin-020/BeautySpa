@@ -70,6 +70,14 @@
 .header .navbar{
     padding:0.5rem 0;
 }
+/* Banner css */
+.bg-hero{
+    clip-path: polygon(68% 0,100% 0,100% 97%,38% 99%,0 100%,0 0);
+}
+/* Feature css  */
+.features{
+    clip-path: polygon(100% 0,100% 0,100% 97%,38% 99%,0 100%,0 3%);
+}
 }
 
 @media (max-width:576px){
